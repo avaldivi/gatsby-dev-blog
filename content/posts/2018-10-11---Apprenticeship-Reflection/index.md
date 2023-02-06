@@ -18,7 +18,7 @@ socialImage: "./media/reflection.jpeg"
 
 ## Recapping a 12 month journey into professional software engineering
 
-![](/media/reflection.jpeg)
+![](./media/reflection.jpeg)
 
 It’s been over a year since I’ve started my Apprenticeship at [Polar
 Notion](http://www.polarnotion.com/) in May 2017. For people tuning in and
@@ -55,7 +55,7 @@ beneficial. With lack of planning can be **very disastrous**. It’s cool though
 
 > I’d rather ask for forgiveness than for permission.
 
-![](/media/github_contributions.png)
+![](./media/github_contributions.png)
 <span class="figcaption_hack">[https://github.com/avaldivi](https://github.com/avaldivi)</span>
 
 ### React Native

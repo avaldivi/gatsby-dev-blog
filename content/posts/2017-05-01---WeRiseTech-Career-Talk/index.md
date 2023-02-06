@@ -14,7 +14,7 @@ description: "An introduction to our talk 'Life after Graduation: The Struggle' 
 socialImage: "./media/we_rise.png"
 ---
 
-![](/media/we_rise.png)
+![](./media/we_rise.png)
 
 If you haven’t heard yet, We Rise Women in Tech Conference hosted by [Women Who
 Code Atlanta](http://meetup.com/Women-Who-Code-Atlanta) is June 23rd & 24th 2017 at

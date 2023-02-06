@@ -15,7 +15,7 @@ description: "Some lessons learned as my first year as UI Engineer at SalesLoft.
 socialImage: "./media/map.jpeg"
 ---
 
-![](/media/map.jpeg)
+![](./media/map.jpeg)
 
 <b>https://unsplash.com/@anniespratt</b>
 
@@ -43,7 +43,7 @@ If you’re considering “why would my company want inexperienced developers?�
 
 #### **— SalesLoft Core Values**
 
-![https://salesloft.com/company/](/media/core_values.png)
+![https://salesloft.com/company/](./media/core_values.png)
 
 <b>https://salesloft.com/company/</b>
 
@@ -61,7 +61,7 @@ We have a pretty fantastic toolkit and we encourage our engineers to use when th
 
 # Lessons Learned & Dominated ✅
 
-![](/media/puzzle.jpeg)
+![](./media/puzzle.jpeg)
 
 #### **— Project: Table Component**
 

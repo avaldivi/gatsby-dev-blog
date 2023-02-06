@@ -15,7 +15,7 @@ description: "If you are switching jobs in tech you should be aware of how to le
 socialImage: "./media/interview_blog.jpeg"
 ---
 
-![](/media/interview_blog.jpeg)
+![](./media/interview_blog.jpeg)
 
 <b>https://unsplash.com</b>
 

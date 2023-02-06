@@ -1,7 +1,7 @@
 {
-  "title": "Blog by John Doe",
+  "title": "Blog by Adrianna Valdivia",
   "url": "https://lumen.alxshelepenok.com",
-  "subtitle": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+  "subtitle": "Speaker, Writer, and UI Engineer",
   "copyright": "© All rights reserved.",
   "googleAnalyticsId": "UA-73379983-2",
   "disqusShortname": "",
@@ -22,26 +22,13 @@
     }
   ],
   "author": {
-    "name": "John Doe",
+    "name": "Adrianna Valdivia",
     "photo": "/photo.jpg",
-    "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "bio": "Speaker, Writer, and Senior UI Enginner at Salesloft",
     "contacts": {
-      "rss": "",
-      "email": "",
-      "github": "#",
-      "facebook": "#",
-      "telegram": "#",
-      "twitter": "#",
-      "linkedin": "#",
-      "instagram": "#",
-      "mastodon": "#",
-      "line": "",
-      "weibo": "",
-      "gitlab": "",
-      "medium": "",
-      "youtube": "",
-      "codepen": "",
-      "soundcloud": ""
+      "github": "avaldivi",
+      "twitter": "@driannavaldivia",
+      "linkedin": "adriannavaldivia"
     }
   }
 }

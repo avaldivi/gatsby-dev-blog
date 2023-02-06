@@ -11,22 +11,9 @@ const useSiteMetadata = () => {
               name
               photo
               contacts {
-                rss
-                line
-                email
-                weibo
-                gitlab
-                medium
-                github
                 twitter
-                codepen
-                youtube
-                facebook
+                github
                 linkedin
-                telegram
-                instagram
-                soundcloud
-                mastodon
               }
             }
             menu {

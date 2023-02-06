@@ -17,8 +17,8 @@
       "path": "/pages/about"
     },
     {
-      "label": "Contact me",
-      "path": "/pages/contacts"
+      "label": "Speaker slides",
+      "path": "/pages/speaker-slides"
     }
   ],
   "author": {

@@ -1,6 +1,7 @@
 ---
-title: "Contact me"
+title: ""
 template: "page"
+draft: true
 socialImage: "./book.jpg"
 ---
 

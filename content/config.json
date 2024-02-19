@@ -17,6 +17,10 @@
       "path": "/pages/about"
     },
     {
+      "label": "Portfolio",
+      "path": "/pages/portfolio"
+    },
+    {
       "label": "Speaker slides",
       "path": "/pages/speaker-slides"
     }
@@ -27,7 +31,7 @@
     "bio": "Speaker, Writer, and Senior UI Engineer at Salesloft",
     "contacts": {
       "github": "avaldivi",
-      "twitter": "@driannavaldivia",
+      "x": "@driannavaldivia",
       "linkedin": "adriannavaldivia"
     }
   }

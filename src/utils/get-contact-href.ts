@@ -11,6 +11,7 @@ const getContactHref = (name: string, contact: string) => {
     weibo: `https://www.weibo.com/${contact}`,
     gitlab: `https://www.gitlab.com/${contact}`,
     codepen: `https://www.codepen.io/${contact}`,
+    x: `https://www.twitter.com/${contact}`,
     twitter: `https://www.twitter.com/${contact}`,
     soundcloud: `https://soundcloud.com/${contact}`,
     facebook: `https://www.facebook.com/${contact}`,

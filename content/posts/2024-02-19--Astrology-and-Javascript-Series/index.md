@@ -11,7 +11,7 @@ tags:
   - "typescript"
   - "astrology"
   - "remix"
-description: "Join me as I start a live series explaining the basics of astrology while building a project using javascript ecosystem tools"
+description: "Join me as I start a live series explaining the basics of astrology while building a project using front end tools within the Javascript ecosystem including React, Typescript, and more!"
 socialImage: "./media/astrology_and_javascript_series_banner.gif"
 ---
 

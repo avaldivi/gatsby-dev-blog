@@ -1,0 +1,14 @@
+@import "../../assets/scss/variables";
+@import "../../assets/scss/mixins";
+
+.coffee {
+	.photo {
+	  margin-bottom: 15px;
+	  margin-top: 15px;
+	  width: 150px;
+  
+	  img {
+		width: 150px;
+	  }
+	}
+}

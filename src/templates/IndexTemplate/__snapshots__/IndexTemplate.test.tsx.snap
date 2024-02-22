@@ -13,7 +13,7 @@ exports[`IndexTemplate renders correctly 1`] = `
             <a
               href="/"
             >
-              Adrianna
+              John Doe
             </a>
           </h1>
         </div>
@@ -46,6 +46,13 @@ exports[`IndexTemplate renders correctly 1`] = `
           </li>
         </ul>
       </nav>
+      <div>
+        <a
+          href="https://www.buymeacoffee.com/adriannavaldivia"
+          rel="noopener noreferrer"
+          target="_blank"
+        />
+      </div>
       <div>
         <ul>
           <li>

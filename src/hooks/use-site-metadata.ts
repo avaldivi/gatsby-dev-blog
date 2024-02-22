@@ -10,6 +10,7 @@ const useSiteMetadata = () => {
               bio
               name
               photo
+              bmc
               contacts {
                 x
                 github

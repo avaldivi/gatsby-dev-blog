@@ -15,6 +15,7 @@ const useSiteMetadata = () => {
                 x
                 github
                 linkedin
+                twitch
               }
             }
             menu {

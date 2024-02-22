@@ -23,7 +23,9 @@ const Sidebar = ({ isIndex }: Props) => {
       <div className={styles.inner}>
         <Author author={author} isIndex={isIndex} />
         <Menu menu={menu} />
-        <Coffee buyMeACoffeeLogo={author.bmc} />
+        <Coffee
+          buyMeACoffeeLogo={{ dark: author.bmcLight, light: author.bmc }}
+        />
         <Contacts contacts={author.contacts} />
         <Copyright copyright={copyright} />
       </div>

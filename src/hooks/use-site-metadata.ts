@@ -11,6 +11,7 @@ const useSiteMetadata = () => {
               name
               photo
               bmc
+              bmcLight
               contacts {
                 x
                 github

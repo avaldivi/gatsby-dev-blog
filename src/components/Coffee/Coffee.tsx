@@ -1,8 +1,11 @@
 import React from "react";
 import { Image } from "../Image";
 import * as styles from "./Coffee.module.scss";
+import { useTheme } from "@/hooks";
 
-const Coffee = ({ buyMeACoffeeLogo }) => {
+const Coffee = ({ buyMeACoffeeLogo }: any) => {
+  const [{ mode }] = useTheme();
+  const { dark, light } = buyMeACoffeeLogo;
   return (
     <div className={styles.coffee}>
       <a
@@ -13,7 +16,7 @@ const Coffee = ({ buyMeACoffeeLogo }) => {
       >
         <Image
           alt="Buy me a coffee"
-          path={buyMeACoffeeLogo}
+          path={mode === "dark" ? dark : light}
           className={styles.photo}
         />
       </a>

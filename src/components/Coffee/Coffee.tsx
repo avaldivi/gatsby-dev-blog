@@ -9,7 +9,6 @@ const Coffee = ({ buyMeACoffeeLogo }: any) => {
   return (
     <div className={styles.coffee}>
       <a
-        className={styles.link}
         href={"https://www.buymeacoffee.com/adriannavaldivia"}
         target="_blank"
         rel="noopener noreferrer"

@@ -23,6 +23,10 @@
     {
       "label": "Speaker slides",
       "path": "/pages/speaker-slides"
+    },
+    {
+      "label": "Astrology & Javascript Series",
+      "path": "https://astrology-javascript-series.vercel.app/"
     }
   ],
   "author": {

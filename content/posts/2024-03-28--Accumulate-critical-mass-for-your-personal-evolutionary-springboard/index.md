@@ -11,10 +11,10 @@ tags:
   - "leadership"
   - "adapting"
 description: "Over the past year, I’ve encountered numerous obstacles within my career and personal life, and I’m aware that my experiences are not unique but worth sharing in how I have approached them. This quote helped me put things in perspective to start building a plan on overcoming those obstacles."
-socialImage: "./media/springboard.avif"
+socialImage: "./media/springboard.png"
 ---
 
-!["Springboard above open pool"](/media/springboard.avif)
+!["Springboard above open pool"](/media/springboard.png)
 
 
 Have you ever heard of this phrase before?

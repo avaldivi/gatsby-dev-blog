@@ -1,5 +1,5 @@
 ---
-title: Astrology & Javascript Series
+title: Astrology & JavaScript Series
 date: "2024-02-19T22:40:32.169Z"
 template: "post"
 draft: false
